@@ -14,4 +14,11 @@ CMPUT 404 Lab 8 Answers
 -  When you use a file type that isn't included by default, Parcel will automatically install all of the necessary plugins and dev dependencies for you.
 
 4. Question 4
--  
+-  The readyState for a WebSocket can be in 4 different values. They are:
+   * 0 - "CONNECTING": the connection has not yet been established,
+   * 1 - "OPEN": communicating,
+   * 2 - "CLOSING": the connection is closing,
+   * 3 - "CLOSED": the connection is closed.
+
+5. Question 5
+-  Git URL: https://github.com/david-parise/nodejs-ws-lab.git
