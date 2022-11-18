@@ -1,0 +1,17 @@
+CMPUT 404 Lab 8 Answers
+
+1. Question 1
+-  In the browser, we see a black rectangular area which has an image of a rabbit inside it. This image can be moved around in the black area with a drag action. If the image is clicked, it turns to red. If another tab is opened and we perform a click/drag action, we can see that the image has been moved in the previous tab as well.
+
+2. Question 2
+-  TypeScript is an Object-oriented programming language, whereas JavaScript is a prototype based language.
+-  TypeScript has a feature known as Static typing but JavaScript does not.
+-  TypeScript supports interfaces but JavaScript does not.
+
+3. Question 3
+-  A bundler is a development tool that combines many JavaScript code files into one that is production-ready loadable in the browser.
+-  Parcel supports many languages and file types out of the box, from web technologies like HTML, CSS, and JavaScript, to assets like images, fonts, videos, and more.
+-  When you use a file type that isn't included by default, Parcel will automatically install all of the necessary plugins and dev dependencies for you.
+
+4. Question 4
+-  
